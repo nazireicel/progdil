@@ -25,7 +25,7 @@ namespace ReplaceUnderScore
 				   array[i] = ' ';
 			}
 
-			Print(array);
+			Print(Array);
 		}
 
 		static void Print(char[] last_array)
